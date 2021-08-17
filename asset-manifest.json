@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/videosearch/static/css/main.a617e044.chunk.css",
+    "main.js": "/videosearch/static/js/main.bc5dd513.chunk.js",
+    "main.js.map": "/videosearch/static/js/main.bc5dd513.chunk.js.map",
+    "runtime-main.js": "/videosearch/static/js/runtime-main.77066145.js",
+    "runtime-main.js.map": "/videosearch/static/js/runtime-main.77066145.js.map",
+    "static/css/2.c283699b.chunk.css": "/videosearch/static/css/2.c283699b.chunk.css",
+    "static/js/2.ec91e500.chunk.js": "/videosearch/static/js/2.ec91e500.chunk.js",
+    "static/js/2.ec91e500.chunk.js.map": "/videosearch/static/js/2.ec91e500.chunk.js.map",
+    "static/js/3.375efff9.chunk.js": "/videosearch/static/js/3.375efff9.chunk.js",
+    "static/js/3.375efff9.chunk.js.map": "/videosearch/static/js/3.375efff9.chunk.js.map",
+    "index.html": "/videosearch/index.html",
+    "static/css/2.c283699b.chunk.css.map": "/videosearch/static/css/2.c283699b.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/videosearch/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.ec91e500.chunk.js.LICENSE.txt": "/videosearch/static/js/2.ec91e500.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/videosearch/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77066145.js",
+    "static/css/2.c283699b.chunk.css",
+    "static/js/2.ec91e500.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.bc5dd513.chunk.js"
+  ]
+}
